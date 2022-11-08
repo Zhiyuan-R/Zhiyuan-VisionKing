@@ -4,7 +4,7 @@
   
   :disguised_face: Currently, I am a first-year PhD student in Michigan State 		  University, foucsing on Computer Vision and I am also fortunate to work with Prof. Xiaoming Liu [scholar](https://scholar.google.com/citations?hl=en&user=Bii0w1oAAAAJ).
 
-:ghost: My research interest is modeling 3D human body from images or video and understanding how these 3D body interacts with virtual  3D scene.
+:ghost: My research interest is **modeling 3D human body** from images or video and understanding how these **3D body interacts** with virtual  3D scene.
 
 Below shows my other websites.
  -   :closed_book: [Google scholar](https://scholar.google.com/citations?hl=en&user=Z1ltuXEAAAAJ)
