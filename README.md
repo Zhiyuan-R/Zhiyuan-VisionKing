@@ -11,6 +11,10 @@ Below shows my other websites.
  -   :man_judge: [LinkedIn](https://www.linkedin.com/in/zhiyuan-ren-585365223/)
  -   :performing_arts:	 [Instgram](https://www.instagram.com/zhiyuangin/)
 
+Below are some of my contacts.
+ -   :mailbox_with_mail: renzhiy1@mse.edu
+ -   :iphone: (+1)7064028917
+
 :game_die: Status(11-07-2022):
 
  - Fighting for ICCV 2023 submission!
