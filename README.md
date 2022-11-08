@@ -12,7 +12,7 @@ Below shows my other websites.
  -   :performing_arts:	 [Instgram](https://www.instagram.com/zhiyuangin/)
 
 Below are some of my contacts.
- -   :mailbox_with_mail:  renzhiy1@mse.edu
+ -   :mailbox_with_mail:  renzhiy1@msu.edu
  -   :iphone: (+1)706-402-8917
 
 :game_die: Status(11-07-2022):
